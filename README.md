@@ -1,4 +1,4 @@
-# PiggyCheck
+# PigGrow
 
 ## Pacotes utilizados
     - Lucide        -> Icones
